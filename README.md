@@ -25,26 +25,26 @@
 
 <br>
 
-## :dart: About ##
+## 🎯 About
 
 Clone da interface da Netflix desenvolvido com **React.js**, consumindo dados da API do **TheMovieDB (TMDB)**, com foco em componentização, requisições assíncronas e renderização dinâmica.
 
 ---
 
-## 🔥 Features
+## 🚀 Features
 
 - Listagem dinâmica de filmes  
 - Banner principal com destaque  
 - Scroll horizontal por categorias  
-- Consumo da API do TMDB  
+- Consumo da API TMDB  
 - Layout inspirado na Netflix  
 - Responsividade  
 
 ---
 
-## :rocket: Technologies ##
+## 🧰 Technologies
 
-- React  
+- React.js  
 - JavaScript  
 - HTML5  
 - CSS3  
@@ -66,16 +66,16 @@ Projeto estruturado com separação de responsabilidades e organização escalá
 
 ---
 
-## :white_check_mark: Requirements ##
+## ✅ Requirements
 
-Before starting :checkered_flag:, you need to have:
+Antes de começar, você precisa ter:
 
 - Git  
 - Node.js  
 
 ---
 
-## :checkered_flag: Starting ##
+## 🏁 Starting
 
 ```bash
 # Clone this project
@@ -91,7 +91,7 @@ npm install
 npm start
 ```
 
-The server will initialize at:
+O servidor iniciará em:
 
 ```
 http://localhost:3000
@@ -99,7 +99,7 @@ http://localhost:3000
 
 ---
 
-## :memo: License ##
+## 📄 License
 
 Este projeto está sob licença MIT.
 
