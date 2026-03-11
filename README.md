@@ -5,13 +5,13 @@
 <h1 align="center">Netflix Clone React</h1>
 
 <p align="center">
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/LucasFerreiraProgramador/netflix-clone-react?color=0A66C2">
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/LucasFerreiraProgramador/-netflix-clone-react?color=0A66C2">
 
-  <img alt="Languages Count" src="https://img.shields.io/github/languages/count/LucasFerreiraProgramador/netflix-clone-react?color=0A66C2">
+  <img alt="Languages Count" src="https://img.shields.io/github/languages/count/LucasFerreiraProgramador/-netflix-clone-react?color=0A66C2">
 
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/LucasFerreiraProgramador/netflix-clone-react?color=0A66C2">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/LucasFerreiraProgramador/-netflix-clone-react?color=0A66C2">
 
-  <img alt="License" src="https://img.shields.io/github/license/LucasFerreiraProgramador/netflix-clone-react?color=0A66C2">
+  <img alt="License" src="https://img.shields.io/github/license/LucasFerreiraProgramador/-netflix-clone-react?color=0A66C2">
 </p>
 
 <p align="center">
